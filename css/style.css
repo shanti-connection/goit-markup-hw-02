@@ -96,7 +96,7 @@ font-weight: 700;
 
 .button-hero:hover,
 .button-hero:focus{
-    background-color: #404BBF
+    background-color:#404BBF
 }
 
 /** =============ABOUT================= */
@@ -136,7 +136,7 @@ font-weight: 400;
 }
 
 .team-members{
-        background-color: #FFFFFF;
+    background-color: #FFFFFF;
 }
 
 .team-members-list{}
