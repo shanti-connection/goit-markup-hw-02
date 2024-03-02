@@ -21,6 +21,8 @@ button {
     background: #fff;
 }
 
+.header-navigation-list{}
+
 .header-logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -98,18 +100,6 @@ font-weight: 700;
 }
 
 /** =============ABOUT================= */
-.visually-hidden{
-position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    white-space: nowrap;
-    clip: rect(0, 0, 0, 0);
-    overflow: hidden;
-}
-
 .about-item{}
 
 .about-item-list{}
@@ -211,7 +201,7 @@ background: #2e2f42;
     color: #4d5ae5;
 }
 
-.footer-logo span{
+.footer-logo-text{
 color: #f4f4fd;
 }
 
