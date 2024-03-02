@@ -66,8 +66,8 @@ color: #404bbf
         color: #434455;
 }
 
-.header-contact-link :hover,
-.header-contact-link :focus{
+.header-contact-link:hover,
+.header-contact-link:focus{
     color:#404bbf;
 }
 
@@ -135,11 +135,12 @@ font-weight: 400;
     background: #f4f4fd;
 }
 
-.team-members{
-    background-color: #FFFFFF;
+.team-members{ 
 }
 
-.team-members-list{}
+.team-members-list{
+    background-color: #FFFFFF;
+}
 
 .team-members-img{}
 
